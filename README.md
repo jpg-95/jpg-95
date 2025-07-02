@@ -1,35 +1,38 @@
-# 👋 Welcome to My GitHub!
+Hey, I’m Juan — Welcome to My GitHub!
 
-Hi, I'm **Juan** — a curious builder, lifelong learner, and tech tinkerer.  
-Here you'll find a mix of my personal projects that span across:
-
-- 🛸 **FPV drones** – builds, 3D prints, firmware tuning, and flight logs  
-- 🛡️ **Cybersecurity** – red vs blue labs, tools, scripts, and writeups  
-- 💻 **Coding & Automation** – from bash one-liners to Python utilities  
-- 📦 **Homelab & DIY Tech** – Raspberry Pi projects, NAS setups, and more
-
-I use this space to:
-- Document what I’m learning
-- Share tools and resources
-- Break stuff, fix it, and learn from the process
+I’m a builder, a breaker, and a lifelong student of the digital world.  
+This is where I share my experiments, projects, and late-night obsessions — from flying FPV drones to digging deep into cybersecurity and tech that challenges how we think.
 
 ---
 
-### 🔧 Current Projects
+### What You'll Find Here
 
-- 🎮 Building a [Red vs Blue cybersecurity lab](#) on Raspberry Pi + VMs  
-- 🛠️ Designing 3D-printable parts for 5" FPV freestyle drones  
-- 🧠 Training machine learning models for anomaly detection (early WIP)  
-- 📜 Writing walkthroughs for hack-the-box-style challenges
-
----
-
-### 📬 Let's Connect
-
-If you’re into drones, cybersecurity, or just breaking things to understand them —  
-**follow, fork, or shoot me a message**. I’m always up for learning from others in the community.
+- 🛸 **FPV Drones** – custom 3D-printed parts, flight tuning, logs, and DIY rigs  
+- 🛡️ **Cybersecurity Projects** – red team labs, scripts, exploits, and defenses  
+- 💡 **Tinkering with Tech** – Raspberry Pi NAS builds, automation, and homelab setups  
+- 🧪 **Learning by Doing** – small tools, writeups, challenges, and random breakthroughs
 
 ---
 
-> _“The best way to understand how something works is to break it on purpose.”_  
-> — Probably Me After 2 AM
+### Why I’m Doing This
+
+I believe in learning by building — and sometimes breaking — things.  
+This GitHub is my digital lab journal. It's raw, real, and always evolving.
+
+---
+
+### In the Works
+
+- Building a red vs blue cybersecurity lab from scratch (Raspberry Pi + VMs)  
+- Designing modular drone frames and printable gear for freestyle flying  
+- Writing walkthroughs for hands-on security challenges and homegrown CTFs  
+- Experimenting with AI and anomaly detection for network defense
+
+---
+
+### Let’s Connect
+
+“If you want to go far, go together.”
+— African Proverb
+
+---
