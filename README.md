@@ -7,10 +7,10 @@ This is where I share my experiments, projects, and late-night obsessions — fr
 
 ### What You'll Find Here
 
-- 🛸 **FPV Drones** – custom 3D-printed parts, flight tuning, logs, and DIY rigs  
-- 🛡️ **Cybersecurity Projects** – red team labs, scripts, exploits, and defenses  
-- 💡 **Tinkering with Tech** – Raspberry Pi NAS builds, automation, and homelab setups  
-- 🧪 **Learning by Doing** – small tools, writeups, challenges, and random breakthroughs
+- **FPV Drones** – custom 3D-printed parts, flight tuning, logs, and DIY rigs  
+- **Cybersecurity Projects** – red team labs, scripts, exploits, and defenses  
+- **Tinkering with Tech** – Raspberry Pi NAS builds, automation, and homelab setups  
+- **Learning by Doing** – small tools, writeups, challenges, and random breakthroughs
 
 ---
 
